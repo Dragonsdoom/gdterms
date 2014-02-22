@@ -94,7 +94,9 @@ The final play cycles of a game where strategies end and a win condition is trig
 
 ####Zero sum
 ######Definition  
-A zero sum game or resolution is a scenario where a player pursues a goal and experiences strong enough negative results to counteract or zero out the expected positive result.
+A zero sum game or resolution is a scenario where a player pursues a goal and experiences strong enough negative results to counteract or zero out the expected positive result.  
+***OR***  
+A set of conditions where one player's gain is another player's loss.
 ######Examples
 ***General:*** Strategic games, Narrative games, Board games
 ######Synonyms: -
