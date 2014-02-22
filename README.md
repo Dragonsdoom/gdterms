@@ -91,8 +91,23 @@ The final play cycles of a game where strategies end and a win condition is trig
 ####Min-max
 ####Perfect information
 ####Imperfect information
+
 ####Zero sum
+######Definition  
+A zero sum game or resolution is a scenario where a player pursues a goal and experiences strong enough negative results to counteract or zero out the expected positive result.
+######Examples
+***General:*** Strategic games, Narrative games, Board games
+######Synonyms: -
+
 ####Replay value
+######Definition  
+A measure of how many times you can play a game until the content or presentation becomes repetative to the point of dullness.
+######Examples
+***General:*** Arcade games, board games, beer & pretzel games
+***Specific:*** Nethack, Betrayal at house on the hill, The stanley parable
+######Synonyms: -
+
+######
 ####Pasted on
 ####Meaty
 ####Power creep
