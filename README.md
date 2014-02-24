@@ -1,7 +1,7 @@
 #Game Design Terminology
 An exhaustive collection of game design terminology described in simple language with real-world examples.
 
-###Contents
+##Contents
 terms.md -- the terminology itself  
 authors.md -- list of contributors  
 designers.md -- list of notable game designers  
