@@ -26,22 +26,6 @@ Every type of game
 
 ## Gameplay Situations
 
-####Zugzwang
-######Definition  
-German "Compulsion to move". A situation where a player must take part in a game cycle (such as a turn or a round) despite negative consequences.
-######Examples
-***General:*** Board games  
-***Specific:*** Chess, Shadows Over Camelot
-######Synonyms: Compulsion to move
-
-####Zwischenzug
-######Definition  
-German "Intermediate move". A situation where a player takes an unexpected move to gain an advantage before taking the expected move.
-######Examples
-***General:*** Board games  
-***Specific:*** Chess
-######Synonyms: Intermediate move
-
 ####DM fiat
 ######Definition  
 The understanding that the person playing the arbitrator (rules engine, decision maker) of the game overrides the rules defined elsewhere.
@@ -68,15 +52,44 @@ A purely defensive play strategy focused on accumulating resources until the end
 ***Specific:*** Starcraft, Civilization, Super Smash Brothers
 ######Synonyms: -
 
+####Zugzwang
+######Definition  
+German "Compulsion to move". A situation where a player must take part in a game cycle (such as a turn or a round) despite negative consequences.
+######Examples
+***General:*** Board games  
+***Specific:*** Chess, Shadows Over Camelot
+######Synonyms: Compulsion to move
+
+####Zwischenzug
+######Definition  
+German "Intermediate move". A situation where a player takes an unexpected move to gain an advantage before taking the expected move.
+######Examples
+***General:*** Board games  
+***Specific:*** Chess
+######Synonyms: Intermediate move
+
 ## Concepts
 ####Player agency
 ####Homebrew
 ####Social contract
 ####Old school revolution
 ####Play by post / play by mail / play by chat / play by email
+
 ####House rule
+######Definition  
+An unoffical rule.
+######Synonyms: -
+
 ####Spoiler
 ####Verisimilitude
+
+####Emergent gameplay
+######Definition  
+Play discovered through interaction in the game space.
+######Examples
+***General:*** Procedural games, multiplayer games  
+***Specific:*** Minecraft, Garry's Mod, Don't Starve
+######Synonyms: -
 
 ####Endgame
 ######Definition  
@@ -91,15 +104,6 @@ The final play cycles of a game where strategies end and a win condition is trig
 ####Min-max
 ####Perfect information
 ####Imperfect information
-
-####Zero sum
-######Definition  
-A zero sum game or resolution is a scenario where a player pursues a goal and experiences strong enough negative results to counteract or zero out the expected positive result.  
-***OR***  
-A set of conditions where one player's gain is another player's loss.
-######Examples
-***General:*** Strategic games, Narrative games, Board games
-######Synonyms: -
 
 ####Replay value
 ######Definition  
@@ -116,13 +120,20 @@ A measure of how many times you can play a game until the content or presentatio
 ####System mastery
 ####Feature creep
 
+####Zero sum
+######Definition  
+A zero sum game or resolution is a scenario where a player pursues a goal and experiences strong enough negative results to counteract or zero out the expected positive result.  
+***OR***  
+A set of conditions where one player's gain is another player's loss.
+######Examples
+***General:*** Strategic games, Narrative games, Board games
+######Synonyms: -
+
 ## Abstractions
-####Threefold model (gamist, simulationist, dramatist)
-####GNS theory (gamist, narrativist, simulationist)
-####Macguffin
 ####Core
 ####Expansion
 ####Gamification
+
 ####Genre
 ######Definition  
 A category defining a set of stylistic choices. All games have genres because they have style.
@@ -130,19 +141,24 @@ A category defining a set of stylistic choices. All games have genres because th
 ***General:*** All games
 ######Synonyms: -
 
+####GNS theory (gamist, narrativist, simulationist)
+####Macguffin
+####Threefold model (gamist, simulationist, dramatist)
+
 ## Systems of Mechanics
 ####Buff/debuff
 ####Conflict resolution
 ####Cutscene
-####Play order
 ####Deck building
 ####Leeching / leaching
+####Play order
 ####Rock-paper-scissors
 ####Reference card
 ####Tile laying
 ####Wagering
 
-## Types of Fun
+## Types of pleasure
+####Triumph over adversity
 ####Fiaro
 ####Schadenfreude
 ####Exploration
@@ -160,7 +176,14 @@ A category defining a set of stylistic choices. All games have genres because th
 ####Beer & pretzels game
 ####Card Game
 ####Collectible Card Game
+
 ####Dexterity game
+######Definition  
+A game with mechanics designed around physical agility or motor skills.
+######Examples
+***Specific:*** Dagorhir, MagiQuest, Lorien Trust
+######Synonyms: LARP
+
 ####Eurogame
 ####Mass market game
 ####Minitures game
