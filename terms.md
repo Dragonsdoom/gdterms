@@ -152,9 +152,19 @@ A category defining a set of stylistic choices. All games have genres because th
 ####Deck building
 ####Leeching / leaching
 ####Play order
+
 ####Rock-paper-scissors
+A formal, random problem resolution mechanic. This mechanic specifically resolves which participant in a group chooses the resolution of another problem.
+######Synonyms: -
+
 ####Reference card
+
 ####Tile laying
+A mechanic where players construct maps or graphs out of node objects.
+######Examples
+***General:*** Carcassone, Betrayal at the house on the hill
+######Synonyms: -
+
 ####Wagering
 
 ## Types of pleasure
@@ -165,34 +175,32 @@ A category defining a set of stylistic choices. All games have genres because th
 ####Potential
 
 ## Types of Games
-####Wargame
-####Edugame
-####Serious game
 ####Advergame
-####Core game
-####Casual game
-####Mobile game
 ####Browser game
 ####Beer & pretzels game
+####Core game
+####Casual game
 ####Card Game
 ####Collectible Card Game
-
 ####Dexterity game
 ######Definition  
 A game with mechanics designed around physical agility or motor skills.
 ######Examples
-***Specific:*** Dagorhir, MagiQuest, Lorien Trust
-######Synonyms: LARP
-
+***Specific:*** Slapjack, Dodgeball, Wack-a-mole
+######Synonyms: Reflex game
+####Edugame
 ####Eurogame
-####Mass market game
-####Minitures game
-####Party game
-####Multiplayer game
-####Trick-taking game
 ####Live-action role-play
 ######Definition  
 A role-playing game with a physical play design focus
 ######Examples
 ***Specific:*** Dagorhir, MagiQuest, Lorien Trust
 ######Synonyms: LARP
+####Mobile game
+####Mass market game
+####Minitures game
+####Multiplayer game
+####Party game
+####Serious game
+####Trick-taking game
+####Wargame
