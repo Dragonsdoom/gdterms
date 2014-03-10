@@ -25,46 +25,49 @@ Different ways people have fun
 Every type of game
 
 ## Gameplay Situations
-####Analysis paralysis
-######Definition  
-When the participant fails to make a timely decision because he or she has too many choices.
-######Synonyms: -
-####Character optimization
-####DM fiat
-######Definition  
-The understanding that the person playing the arbitrator (rules engine, decision maker) of the game overrides the rules defined elsewhere.
-######Examples
-***General:*** table-top role-playing games, board games  
-***Specific:*** Dungeons & Dragons, World Of Darkness, RISUS
-######Synonyms: -
-####Going nuclear
-####Metagaming
-####Proc
-####Player versus player / player versus enemy / cooperative
-####Puzzle
-####Rules lawyer
-####Turtling
-######Definition  
-A purely defensive play strategy focused on accumulating resources until the endgame.
-######Examples
-***General:*** real-time strategy games, fighting games, Capture the Flag  
-***Specific:*** Starcraft, Civilization, Super Smash Brothers
-######Synonyms: -
-####Zerg rush
-####Zugzwang
-######Definition  
-German "Compulsion to move". A situation where a player must take part in a game cycle (such as a turn or a round) despite negative consequences.
-######Examples
-***General:*** Board games  
-***Specific:*** Chess, Shadows Over Camelot
-######Synonyms: Compulsion to move
-####Zwischenzug
-######Definition  
-German "Intermediate move". A situation where a player takes an unexpected move to gain an advantage before taking the expected move.
-######Examples
-***General:*** Board games  
-***Specific:*** Chess
-######Synonyms: Intermediate move
+#### **Analysis paralysis**
+> When the participant fails to make a timely decision because he or she has too many choices.  
+***Synonyms:*** -
+
+#### **Character optimization**  
+
+#### **DM fiat**  
+> The understanding that the person playing the arbitrator (rules engine, decision maker) of the game overrides the rules defined elsewhere.  
+***General examples:*** table-top role-playing games, board games  
+***Specific examples:*** Dungeons & Dragons, World Of Darkness, RISUS  
+***Synonyms:*** -  
+
+#### **Going nuclear**  
+
+#### **Metagaming**  
+
+#### **Proc**  
+
+#### **Player versus player / player versus enemy / cooperative**  
+
+#### **Puzzle**  
+
+#### **Rules lawyer**  
+
+#### **Turtling**  
+> A purely defensive play strategy focused on accumulating resources until the endgame.  
+***General examples:*** real-time strategy games, fighting games, Capture the Flag  
+***Specific examples:*** Starcraft, Civilization, Super Smash Brothers  
+***Synonyms:*** -  
+
+#### **Zerg rush**  
+
+#### **Zugzwang**  
+> German "Compulsion to move". A situation where a player must take part in a game cycle (such as a turn or a round) despite negative consequences.  
+***General examples:*** Board games  
+***Specific examples:*** Chess, Shadows Over Camelot
+***Synonyms:*** Compulsion to move  
+
+#### **Zwischenzug**  
+> German "Intermediate move". A situation where a player takes an unexpected move to gain an advantage before taking the expected move.  
+***Generalexamples :*** Board games  
+***Specific examples:*** Chess  
+***Synonyms:*** Intermediate move
 
 ## Concepts
 ####Emergent gameplay
