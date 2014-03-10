@@ -9,19 +9,19 @@ An exhaustive collection of game design terminology described in simple language
 * [Group by source domain of terminology]()
 
 ## Chapters
-* Gameplay Situations  
+* **Gameplay Situations**  
 Terms describing specific play events
 
-* Concepts  
+* **Concepts**  
 Terms that quantify game attributes
 
-* Abstractions  
+* **Abstractions**  
 Terms used for meta thoughts about games
 
-* Types of Fun  
+* **Types of Fun**  
 Different ways people have fun
 
-* Types of Games  
+* **Types of Games**  
 Every type of game
 
 ## Gameplay Situations
@@ -60,36 +60,35 @@ Every type of game
 #### **Zugzwang**  
 > German "Compulsion to move". A situation where a player must take part in a game cycle (such as a turn or a round) despite negative consequences.  
 ***General examples:*** Board games  
-***Specific examples:*** Chess, Shadows Over Camelot
+***Specific examples:*** Chess, Shadows Over Camelot  
 ***Synonyms:*** Compulsion to move  
 
 #### **Zwischenzug**  
 > German "Intermediate move". A situation where a player takes an unexpected move to gain an advantage before taking the expected move.  
-***Generalexamples :*** Board games  
+***General examples :*** Board games  
 ***Specific examples:*** Chess  
 ***Synonyms:*** Intermediate move
 
 ## Concepts
-####Emergent gameplay
-######Definition  
-Play discovered through interaction in the game space.
-######Examples
-***General:*** Procedural games, multiplayer games  
-***Specific:*** Minecraft, Garry's Mod, Don't Starve
-######Synonyms: -
+#### Emergent gameplay
+> Play discovered through interaction in the game space.  
+***General examples:*** Procedural games, multiplayer games  
+***Specific examples:*** Minecraft, Garry's Mod, Don't Starve  
+***Synonyms:*** -  
+
 ####Endgame
-######Definition  
-The final play cycles of a game where strategies end and a win condition is triggered.
-######Examples
-***General:*** Strategic games, multiplayer games, fighting games  
-***Specific:*** Chess, Battlefield, Rummy
-######Synonyms: -
+> The final play cycles of a game where strategies end and a win condition is triggered.  
+***General examples:*** Strategic games, multiplayer games, fighting games  
+***Specific examples:*** Chess, Battlefield, Rummy  
+***Synonyms:*** -  
+
 ####Feature creep
 ####Homebrew
+
 ####House rule
-######Definition  
-An unofficial rule.
-######Synonyms: -
+> An unofficial rule.  
+***Synonyms:*** -
+
 ####Imperfect information
 ####Min-max
 ####Meaty
@@ -101,45 +100,45 @@ An unofficial rule.
 ####Perfect information
 ####Player agency
 ####Play by post / play by mail / play by chat / play by email
+
 ####Replay value
-######Definition  
-A measure of how many times you can play a game until the content or presentation becomes repetative to the point of dullness.
-######Examples
-***General:*** Arcade games, board games, beer & pretzel games  
-***Specific:*** Nethack, Betrayal at house on the hill, The stanley parable
-######Synonyms: -
+> A measure of how many times you can play a game until the content or presentation becomes repetative to the point of dullness.  
+***General examples:*** Arcade games, board games, beer & pretzel games  
+***Specific examples:*** Nethack, Betrayal at house on the hill, The stanley parable  
+***Synonyms:*** -
+
 ####Social contract
 ####Spoiler
 ####System mastery
 ####Verisimilitude
+
 ####Zero sum
-######Definition  
-A zero sum game or resolution is a scenario where a player pursues a goal and experiences strong enough negative results to counteract or zero out the expected positive result.  
+> A zero sum game or resolution is a scenario where a player pursues a goal and experiences strong enough negative results to counteract or zero out the expected positive result.  
 ***OR***  
-A set of conditions where one player's gain is another player's loss.
-######Examples
-***General:*** Strategic games, Narrative games, Board games
-######Synonyms: -
+A set of conditions where one player's gain is another player's loss.  
+***General examples:*** Strategic games, Narrative games, Board games  
+***Synonyms:*** -  
 
 ## Abstractions
 ####Buff/debuff
 ####Core
 ####Conflict resolution
 ####Cutscene
+
 ####Deck building
-A mechanic where players choose a subset of tokens from a larger set.
-######Examples
-***General:*** Collectible card games  
-***Specific:*** Magic: The Gathering, Age of Empires 3, Pokemon
-######Synonyms: -
+> A mechanic where players choose a subset of tokens from a larger set.  
+***General examples:*** Collectible card games  
+***Specific examples:*** Magic: The Gathering, Age of Empires 3, Pokemon  
+***Synonyms:*** -
+
 ####Expansion
 ####Gamification
+
 ####Genre
-######Definition  
-A category defining a set of stylistic choices. All games have genres because they have style.
-######Examples
-***General:*** All games
-######Synonyms: -
+> A category defining a set of stylistic choices. All games have genres because they have style.  
+***General examples:*** All games  
+***Synonyms:*** -  
+
 ####GNS theory (gamist, narrativist, simulationist)
 ####Macguffin
 ####Threefold model (gamist, simulationist, dramatist)
@@ -147,15 +146,17 @@ A category defining a set of stylistic choices. All games have genres because th
 ## Systems of Mechanics
 ####Leeching / leaching
 ####Play order
+
 ####Rock-paper-scissors
-A formal, random problem resolution mechanic. This mechanic specifically resolves which participant in a group chooses the resolution of another problem.
-######Synonyms: -
+> A formal, random problem resolution mechanic. This mechanic specifically resolves which participant in a group chooses the resolution of another problem.  
+***Synonyms:*** -  
+
 ####Reference card
 ####Tile laying
-A mechanic where players construct maps or graphs out of node objects.
-######Examples
-***General:*** Carcassone, Betrayal at the house on the hill
-######Synonyms: -
+> A mechanic where players construct maps or graphs out of node objects.  
+***General examples:*** Carcassone, Betrayal at the house on the hill  
+***Synonyms:*** -  
+
 ####Wagering
 
 ## Types of pleasure
@@ -174,19 +175,17 @@ A mechanic where players construct maps or graphs out of node objects.
 ####Card Game
 ####Collectible Card Game
 ####Dexterity game
-######Definition  
-A game with mechanics designed around physical agility or motor skills.
-######Examples
-***Specific:*** Slapjack, Dodgeball, Wack-a-mole
-######Synonyms: Reflex game
+> A game with mechanics designed around physical agility or motor skills.  
+***Specific examples:*** Slapjack, Dodgeball, Wack-a-mole  
+***Synonyms:*** Reflex game  
+
 ####Edugame
 ####Eurogame
 ####Live-action role-play
-######Definition  
-A role-playing game with a physical play design focus
-######Examples
-***Specific:*** Dagorhir, MagiQuest, Lorien Trust
-######Synonyms: LARP
+> A role-playing game with a physical play design focus  
+***Specific examples:*** Dagorhir, MagiQuest, Lorien Trust  
+***Synonyms:*** LARP  
+
 ####Mobile game
 ####Mass market game
 ####Minitures game
