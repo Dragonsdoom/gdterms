@@ -18,6 +18,9 @@ Terms that quantify game attributes
 * [**Abstractions**](https://github.com/Dragonsdoom/gdterms/blob/master/terms.md#abstractions)  
 Terms used for meta thoughts about games
 
+* [**Systems of Mechanics**](https://github.com/Dragonsdoom/gdterms/blob/master/terms.md#systems-of-mechanics)  
+Terms describing game systems
+
 * [**Types of Fun**](https://github.com/Dragonsdoom/gdterms/blob/master/terms.md#types-of-fun)  
 Different ways people have fun
 
@@ -159,7 +162,7 @@ A set of conditions where one player's gain is another player's loss.
 
 ####Wagering
 
-## Types of pleasure
+## Types of Fun
 ####Triumph over adversity
 ####Fiaro
 ####Schadenfreude
