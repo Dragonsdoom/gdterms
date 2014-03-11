@@ -9,19 +9,19 @@ An exhaustive collection of game design terminology described in simple language
 * [Group by source domain of terminology]()
 
 ## Chapters
-* **Gameplay Situations**  
+* [**Gameplay Situations**](https://github.com/Dragonsdoom/gdterms/blob/master/terms.md#gameplay-situations)  
 Terms describing specific play events
 
-* **Concepts**  
+* [**Concepts**](https://github.com/Dragonsdoom/gdterms/blob/master/terms.md#concepts)  
 Terms that quantify game attributes
 
-* **Abstractions**  
+* [**Abstractions**](https://github.com/Dragonsdoom/gdterms/blob/master/terms.md#abstractions)  
 Terms used for meta thoughts about games
 
-* **Types of Fun**  
+* [**Types of Fun**](https://github.com/Dragonsdoom/gdterms/blob/master/terms.md#types-of-fun)  
 Different ways people have fun
 
-* **Types of Games**  
+* [**Types of Games**](https://github.com/Dragonsdoom/gdterms/blob/master/terms.md#types-of-games)  
 Every type of game
 
 ## Gameplay Situations
