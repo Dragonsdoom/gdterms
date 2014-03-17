@@ -45,6 +45,9 @@ Every type of game
 #### **Metagaming**  
 
 #### **Proc**  
+> A programmed occurence is a temporary game mechanic introduced by a trigger. Procs are often triggered with a random number generator.  
+***General examples:*** role-playing games, roguelikes, strategy games.  
+***Specific examples:*** Diablo, Dungeons of Dredmor, XCom: Enemy Unknown
 
 #### **Player versus player / player versus enemy / cooperative**  
 
@@ -59,6 +62,10 @@ Every type of game
 ***Synonyms:*** -  
 
 #### **Zerg rush**  
+> A blitzkrieg or premptive strike manuver using large amounts of cheap assets. Zerg rushes are intended to execute goals by simply overwealming any obstacles.  
+***General examples:*** Real time strategy games, card games, MMOFPSes  
+***Specific examples:*** Starcraft, Command & Conquer, Total War: Shogun 2, Magic: The Gathering  
+***Synonyms:*** Zerging, Swarming, Goblin Tactics, Red Dog
 
 #### **Zugzwang**  
 > German "Compulsion to move". A situation where a player must take part in a game cycle (such as a turn or a round) despite negative consequences.  
